@@ -1,8 +1,4 @@
-## Telas
 
-<p align="center">
-    <img alt="" title="" src="images/print.png">
-</p>
 
 ### 💻 Projeto
 
@@ -12,4 +8,10 @@
 
 O desafio feito foi fornecido pela [FrontEnd Mentor](https://frontendmentor.io)
 
+
+## Telas
+
+<p align="center">
+    <img alt="" title="" src="images/print.png">
+</p>
 
